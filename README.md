@@ -43,7 +43,8 @@ This project delivers a comprehensive customer churn analysis solution for e-com
 - **Cost Optimization**: Identified optimal intervention points for maximum ROI
 
 📈 **Dashboard Preview**
-![Customer Churn Analysis Dashboard](https://github.com/Arya7107418/Customer-Segmentation-Churn-Prediction/blob/main/visualizations/churn_dashboard.png)
+<img width="1189" height="985" alt="image" src="https://github.com/user-attachments/assets/c422a8f6-d2ed-4bfc-bf3c-8427d1ae298d" />
+
 
 🚀 **Technologies Used**
 - **Programming**: Python, Pandas, NumPy, Scikit-learn  
@@ -60,13 +61,13 @@ This project delivers a comprehensive customer churn analysis solution for e-com
 📂 **Repository Structure**
 ```
 Customer-Churn-Analysis/
-├── notebooks/
-│   └── churn_analysis_complete.ipynb    # Main analysis notebook
-├── data/
-│   └── E Commerce Dataset.xlsx          # Raw customer data
-├── results/
-│   ├── churn_feature_importance.csv     # Model insights
-│   └── campaign_pack_high_value_high_risk.csv  # Action list
+├
+│─ churn_analysis_complete.ipynb    # Main analysis notebook
+├
+│── E Commerce Dataset.xlsx          # Raw customer data
+├
+├── churn_feature_importance.csv     # Model insights
+└── campaign_pack_high_value_high_risk.csv  # Action list
 └── README.md                            # Project documentation
 ```
 
@@ -111,9 +112,9 @@ Customer-Churn-Analysis/
 👩‍💻 **Anjali Arya**  
 Data Science & Analytics Professional  
 
-- **LinkedIn**: [https://www.linkedin.com/in/anjali-arya-a936a6223/](https://www.linkedin.com/in/anjali-arya-a936a6223/)
-- **GitHub**: [https://github.com/Arya7107418](https://github.com/Arya7107418)  
-- **Email**: [anjaliarya1007@gmail.com](mailto:anjaliarya1007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-arya-a936a6223)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arya7107418)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjaliarya1007@gmail.com)
 
 ---
 
