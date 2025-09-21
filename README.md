@@ -35,7 +35,8 @@ This project delivers a comprehensive customer churn analysis solution for e-com
 **Strategic Planning**: Quantified impact of satisfaction and complaint resolution on customer retention  
 
 ### 📊 Dashboard Preview
-![Customer Churn Analysis Dashboard](https://via.placeholder.com/800x600.png?text=Dashboard+Preview)
+<img width="1189" height="985" alt="image" src="https://github.com/user-attachments/assets/e13f112f-a913-4c95-999d-da520483bfeb" />
+
 
 *Clean, professional visualizations showing customer distribution, feature importance, satisfaction impact, and complaint analysis*
 
